@@ -22,4 +22,4 @@ _Nothing recorded yet._
 | ID | Date | Type | Status | Summary | Ref |
 |---|---|---|---|---|---|
 | RTTT-T1 | 2026-11-01 | docs | closed | Start the permanent ticket log in the ticket database | — |
-| RTTT-T2 | 2026-11-01 | chore | open | Rename repo to Mods.RogueTrader.TakeTurns for mod organization (GitHub + folder + refs) | — |
+| RTTT-T2 | 2026-11-01 | chore | closed | Rename repo to Mods.RogueTrader.TakeTurns for mod organization (GitHub + folder + refs) | d760dd74d3354944e0445037fda3dd8e08823474 |
